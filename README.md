@@ -1,5 +1,5 @@
 # Sudoku-solver
-To have this code executed at a reasonable time I used backtracking - reverting back to the previous step or solution as soon as we determine that our current solution cannot be continued into a complete one
+To have this code run faster I used backtracking - reverting back to the previous step or solution as soon as we determine that our current solution cannot be continued into a complete one
 
 BEFORE:
 
